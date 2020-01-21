@@ -1,4 +1,4 @@
-# bookrev
+# Bookrev
 This is a Book Review App. Which lets you register, login, see reviews
 about the books you find by searching with their ISBN and also submit your own review.
 This app has its own API you can use.
